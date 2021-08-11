@@ -3,5 +3,6 @@
 ## 주요 기능
 1. 카테고리 별 조회
 2. 해당 항목 클릭시 상세페이지로 조회(메인과 서브페이지 간 URL 파라미터 전달)
+3. 카테고리 메뉴(tab) - filter
 
 ## Demo https://csslick.github.io/dogcare-list/
